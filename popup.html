@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>popuop</title>
+    <style>
+    .popup{
+        display:inline-block;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        border-width: 2px;
+        border-style: solid;
+        padding: 20px;
+       
+     }
+
+
+
+    </style>
+</head>
+<body>
+    <button onclick="displaypopup()">click here</button>
+    <div id="popup" class="popup">
+        <h2>this is popup window</h2>
+        <p>hello this popup </p>
+        <button onclick="closepopup()">close window</button>
+    </div>
+    <script>
+        function displaypopup(){
+            let popup= document.getElementById("popup");
+            popup.style.display="block";
+
+        }
+        function closepopup(){
+            let popup= document.getElementById("popup");
+            popup.style.display="none";
+        }
+
+
+
+    </script>
+</body>
+</html>
