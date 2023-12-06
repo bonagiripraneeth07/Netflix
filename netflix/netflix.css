@@ -1,0 +1,441 @@
+ 
+
+
+
+
+
+.background-img{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    width: 100%;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+    border-style: solid;
+    border-width: 1px;
+    
+}
+.background-img-div{
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+}
+.netflix-logo{
+    display: inline-block;
+    width: 200px;
+    
+    position: absolute;
+     left :180px;
+    top: 3%;
+}
+.laguage-button{
+display: inline-block;
+position: absolute;
+right:350px;
+top: 3%;
+ height: 38px;
+  padding-right: 10px;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: white;
+   opacity: 80%;
+margin: 10px;
+cursor: pointer;
+ 
+font-size: 28px;
+ }
+.internet-logo{
+    width: 28px; 
+
+}
+.signin-button{
+    display: inline-block;
+    position: absolute;
+    right:200px;
+    top: 4%; 
+    width:110px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(229, 9, 20);
+     border-style: none;
+    color: white;
+    padding: 2px;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+.signin-button:hover{
+    background-color: rgb(175, 5, 5);
+}
+.mid-section{
+     
+    position:  absolute;
+    display: block;
+
+    right: 20%;
+    top: 50%;
+    box-shadow: rgba(0, 0, 0, 0.332) 1px 20px 55px, rgba(0, 0, 0, 0.495) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+     background-color: rgba(98, 87, 87, 0.719);
+     height: 300px;
+}
+
+     
+
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 25%;
+    
+}
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.email-section{
+    display: inline-block;
+     
+    
+}
+.email-input{
+    display:inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(255, 255, 255, 0.301);
+    background-color: rgba(0, 0, 0, 0.648);
+    color: rgba(238, 232, 232, 0.734);
+    position: absolute;
+    left: 20%;
+    
+    padding :10px 70px 10px 10px ;
+    
+    
+}
+.getstarted-button{
+    position: absolute;
+    left: 50%; 
+    display: inline-block;
+    background-color:rgba(236, 16, 27, 0.944) ;
+    opacity: 100%;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.getstarted-button:hover{
+    background-color:rgb(175, 5, 5); 
+}
+.scrolling-section-aside1{
+    background-color: black;
+    margin-top: 0;
+    padding-top: 55px;
+    height: 500px;
+    width: 100%;
+}
+.scrolling-section-h1{
+    padding-left: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+ .scrolling-section-h3{
+   padding-left: 18px;
+   display: inline-block;
+   margin-left: 100px;
+    
+ }
+ .video1{
+    display: inline-block;
+    padding-top: 2px;
+    margin-top: -172px;
+    position: absolute;
+    left: 55%;
+
+
+} 
+
+ .tv{
+    display: inline-block;
+    padding-top: 2px;
+    margin-top: -273px;
+    position: absolute;
+    left: 50%;
+}
+.scrolling-section-aside2{
+    margin-top: 5px;
+    background-color: black;
+    height: 600px;
+}
+.scrolling-section-aside2-img{
+     position: relative;
+     left: 12%;
+     width: 560px;
+     top: 15%;
+}
+ .st-downloading-animation{
+    display: inline-block;
+    position: absolute;
+    width: 280px;
+     top: 245%;
+    left:21%;
+    background-color: black;
+    border-color: rgb(126, 124, 124);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    
+
+    
+
+ }
+.st-image{
+    width: 50px;
+    display: inline-block;
+    padding: 5px;
+}
+.scrolling-section-aside3{
+    background-color: black;
+    margin-top: 5px;
+    padding-top: 55px;
+    height: 500px;
+    width: 100%;
+}
+ 
+.video2{
+    display: inline-block;
+    padding-top: 2px;
+    margin-top: -228px;
+    position: absolute;
+    left: 58%;
+    width: 396px;
+}
+.scrolling-section-aside4{
+    background-color: black;
+    width: 100%;
+    margin-top: 5px;
+
+}
+.scrolling-section-4h1{
+    display: inline-block;
+    position: absolute;
+    right: 20%;
+    top: 360%;
+
+     
+}
+.scrolling-section-4h3{
+    display: inline-block;
+    position: absolute;
+    right: 25%;
+    top: 380%;
+}
+.questions-section{
+    background-color: rgb(0, 0, 0);
+     height: 800px;
+     
+    
+}
+.question-heading{
+ display: block;
+ position: relative;
+ font-weight: bold;
+ text-align: center;
+ margin-top: 5px;
+ padding-top: 80px;
+}
+ .question1{
+ margin-left: 10%;
+ margin-right: 20%;
+ height: 55px;
+ padding-top: 30px;
+ padding-left: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+ background-color: rgb(39, 36, 36);
+ color: white;
+ cursor: pointer;
+ }
+.more-opition{
+    display: inline-block;
+    position: relative;
+    left: 78%;
+    color: white;
+    cursor: pointer;
+}
+.question1:hover{
+    background-color: gray;
+}
+ .question2{
+    background-color:rgb(39, 36, 36);
+    margin-left: 10%;
+   margin-right: 20%;
+   height: 55px;
+   padding-top: 30px;
+   padding-left: 16px;
+   cursor: pointer;
+   font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+
+ } 
+ .question2:hover{
+    background-color: gray;
+}
+ .question2-more-opition{
+    display: inline-block;
+    position: relative;
+    left: 64.6%;
+    color: rgb(255, 255, 255);
+    cursor: pointer; 
+}
+  /* Style for the popup window */
+  .popup {
+    display: none ;
+    position: fixed;
+     
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 500px;
+    background-color: #000000;
+    padding: 20px;
+    
+    border-radius: 5px;
+    opacity: 85%;
+  }
+  
+  
+  .popup-signin-heading{
+    color: white;
+    font-weight: bold;
+    
+  }
+  .popup-email{
+    border-style:solid ;
+    border-color: black;
+    padding: 12px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: rgb(110, 109, 109);
+    opacity: 100%;
+     color: white;
+    
+  }
+   ::placeholder{
+    color: rgb(241, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   }
+  
+  
+  .popup-password{
+    border-style:solid ;
+    border-color: black;
+    padding: 12px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: rgb(124, 120, 120);
+    opacity: 100%;
+    color: white;
+
+  }
+  .popup-signin{
+    padding-left: 140px;
+    padding-right: 138px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: red;
+    border-color: red;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+
+  }
+  .popuop-rememberme {
+    color: rgb(98, 98, 98);
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.popup-needhelp{
+    display: inline-block;
+    position: absolute;
+    right: 45px;
+    top: 255px;
+    color: rgb(98, 98, 98);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.popup-newtonetflix{
+margin-top: 70px;
+color:rgb(98, 98, 98); 
+font-family: Arial, Helvetica, sans-serif;
+}
+.popup-signup{
+border: none;
+background-color: black;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+cursor: pointer;
+font-size: medium;
+}
+.close{
+    position: absolute;
+    display: inline-block;
+    top: 10px;
+    right: 10px;
+     border:none;
+     background-color: black;
+     color: white;
+     cursor: pointer;
+     
+}
+.close:hover{
+    background-color: white;
+    color: #000000;
+    border: solid white;
+}
+ .ans{
+    display: none;
+    margin-left: 10%;
+ margin-right: 20%;
+ height: 100px;
+ padding-top: 30px;
+ padding-left: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+ background-color: rgb(39, 36, 36);
+ color: white;
+ cursor: pointer;
+ font-size: larger;
+
+ }
+ .move-to-home{
+    position: absolute;
+    left: 650px;
+    border-style: solid;
+    background-color: rgb(195, 195, 195);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    
+
+ }
+  
